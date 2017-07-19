@@ -86,7 +86,6 @@ let can = {
       c.arc(mouseX, circ4, 6, 0, Math.PI * 2, true);
       c.fill();
 
-      for(circ1)
     //  posX += velocX;
     //  posY += velocY;
 
