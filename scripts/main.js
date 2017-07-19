@@ -20,7 +20,6 @@ document.body.addEventListener('click', function (e) {
 ///////////////////
 let canvas = document.getElementById('c');
 
-
 let can = {
 
   clean:function (){
